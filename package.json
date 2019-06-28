@@ -2,6 +2,8 @@
   "name": "reactPortfolio",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "10.3.0"},
   "homepage": "https://haleylanebrown.github.io/reactPortfolio",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
