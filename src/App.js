@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Title from "./components/title/title";
 import Resume from "./components/resume/resume";
-import NavBar from "./components/NavBar/NavBar";
+import NavBar from "./components/navbar/navbar";
 import About from "./components/about/about";
 import Dots from "./components/dots/dots";
 import Portfolio from "./components/portfolio/portfolio";
