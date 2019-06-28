@@ -1,6 +1,6 @@
 import React from 'react';
 import { bubble as Menu } from 'react-burger-menu'
-import "./NavBar.css"
+import "./navbar.css"
  
 export default class NavBar extends React.Component {
   showSettings (event) {
